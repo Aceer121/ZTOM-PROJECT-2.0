@@ -1,0 +1,32 @@
+/*Selector	{.jpg
+	Propert: value;
+}*/
+
+body	{
+background-image: url(bluesky.jpg);
+background-size: cover;
+}
+
+h2, p {
+	color: #FFAAAA;
+	text-align: center;
+	border: 5px solid rgba(212, 106, 106, 0.5);
+	cursor: pointer;
+}
+
+p {
+	color: pink;
+}
+
+p {
+	color: green;
+}
+
+li	{
+	list-style: none;
+	display: inline-block;
+	}
+
+	.webtext {
+		border: 5px dashed blue;
+	}
